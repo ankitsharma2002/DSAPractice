@@ -12,5 +12,6 @@ public class Sum {
 		double num2=scan.nextDouble();
 		double sum= num1 + num2;
 		System.out.print("Sum of "+num1+" and "+num2+" number is : "+sum);
+		System.out.print("Sum of "+num1+" and "+num2+" number is : "+sum);
 	}
 }
